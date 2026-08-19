@@ -1,12 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Петров;Александр;;;
-FN:Александр Петров
-ORG:ГК Капитал
-TITLE:Генеральный директор
-TEL;TYPE=CELL,VOICE:+7 999 123 45 67
-EMAIL;TYPE=INTERNET,WORK:a.petrov@company.ru
-URL;TYPE=Telegram:https://t.me/apetroff
-NOTE:Telegram: @apetroff
-REV:2026-08-01T00:00:00Z
+N:Ададуров;Александр;Анатольевич;;
+FN:Ададуров Александр Анатольевич
+ORG:Фонд «Сколково»
+TITLE:Заместитель председателя правления по инвестициям и управлению активами в недвижимости
+TEL;TYPE=WORK,VOICE:+7 495 956 00 33,5112
+EMAIL;TYPE=INTERNET,WORK:AAdadurov@sk.ru
+NOTE:Доб. 5112
+REV:2026-08-19T00:00:00Z
 END:VCARD
